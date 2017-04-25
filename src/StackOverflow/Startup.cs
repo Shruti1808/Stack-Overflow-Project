@@ -46,7 +46,7 @@ namespace StackOverflow
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Account}/{action=Index}/{id?}");
+                    template: "{controller=Account}/{action=AllQuestions}/{id?}");
             });
 
             app.Run(async (context) =>

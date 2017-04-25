@@ -20,6 +20,10 @@ namespace StackOverflow.Controllers
             _db = db;
         }
 
+        public IActionResult AllQuestions()
+        {
+            return View(_db.Questions.ToList());
+        }
      
         public IActionResult Create()
         {

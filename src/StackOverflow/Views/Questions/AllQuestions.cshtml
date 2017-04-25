@@ -1,0 +1,13 @@
+﻿@model IEnumerable<StackOverflow.Models.Question>
+
+
+<h4>@Html.DisplayNameFor(model => model.Description)</h4>
+
+<ul>
+    @foreach(var listQuestion in Model)
+    {
+        <li>@Html.DisplayFor(modelQuestion => listQuestion.Description)
+    </li>
+
+    }
+</ul>
