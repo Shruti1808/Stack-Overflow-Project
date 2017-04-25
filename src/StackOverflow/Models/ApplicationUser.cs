@@ -8,5 +8,6 @@ namespace StackOverflow.Models
 {
     public class ApplicationUser: IdentityUser
     {
+
     }
 }
