@@ -204,4 +204,5 @@
 "c:\users\epicodus\documents\visual studio 2015\Projects\StackOverflow\src\StackOverflow\Migrations\ApplicationDbContextModelSnapshot.cs"
 "c:\users\epicodus\documents\visual studio 2015\Projects\StackOverflow\src\StackOverflow\Models\ApplicationDbContext.cs"
 "c:\users\epicodus\documents\visual studio 2015\Projects\StackOverflow\src\StackOverflow\Models\ApplicationUser.cs"
+"c:\users\epicodus\documents\visual studio 2015\Projects\StackOverflow\src\StackOverflow\ViewModels\LoginViewModel.cs"
 "c:\users\epicodus\documents\visual studio 2015\Projects\StackOverflow\src\StackOverflow\ViewModels\RegisterViewModel.cs"
